@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi I am pixxe
 ![Description](Bocchi.jpg)
 <!--
 **pixxechan/pixxechan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
